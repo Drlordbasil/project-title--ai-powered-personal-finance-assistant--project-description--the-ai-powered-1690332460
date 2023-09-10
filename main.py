@@ -10,7 +10,7 @@ This program seems to be a project description rather than an actual Python prog
 
 5. Error handling: Include proper error handling to handle potential exceptions that may arise during the execution of the code. This will improve the robustness of the program and help prevent unexpected crashes.
 
-6. Documentation: Consider adding a docstring to each function or class to explain its purpose, input parameters, and return values. This will make it easier for other developers (including yourself) to understand how to use and interact with different parts of the program.
+6. Documentation: Consider adding a docstring to each function or class to explain its purpose, input parameters, and return values. This will make it easier for other developers(including yourself) to understand how to use and interact with different parts of the program.
 
 7. Testability: Include proper unit tests to validate the functionality of different components of the program. This will help identify and fix issues early on and ensure that the program is working as expected.
 
